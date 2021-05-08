@@ -1,6 +1,7 @@
 # Imgprocessing-Deeplearning
 (NCKU)影像處理與深度學習(連震杰)
 版權問題不放PPT，project1-4分別為 影像處理與深度學習/影像處理與深度學習概論 +Final Project
+
 ----------------------------Final Project為臉部辨識-------------------------------
 1. learning how to process pictures
 2. Finding intrinsic / Extrinsic / distortion matrix
