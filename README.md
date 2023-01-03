@@ -1,5 +1,5 @@
 # Imgprocessing-Deeplearning
-(NCKU)影像處理與深度學習(連震杰)(連老師有自己的git有興趣可以過去看看)
+(NCKU)影像處理與深度學習(連震杰)(連老師有自己的git有興趣可以過去看看)(許久前的資料僅供參考)
 
 版權問題不放PPT，project1-4分別為 影像處理與深度學習/影像處理與深度學習概論 +Final Project
 
